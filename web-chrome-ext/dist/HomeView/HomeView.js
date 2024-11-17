@@ -1,0 +1,1 @@
+import{_ as o,o as n,j as s,k as t,l as r}from"../PopupApp/PopupApp.js";const c={};function _(a,e){return n(),s("main",null,e[0]||(e[0]=[t("div",{class:"main"}," hello this is my home page ",-1)]))}const l=o(c,[["render",_]]),p={__name:"HomeView",setup(a){return(e,m)=>(n(),s("main",null,[r(l)]))}};export{p as default};
